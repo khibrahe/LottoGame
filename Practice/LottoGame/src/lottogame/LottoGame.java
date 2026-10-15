@@ -7,9 +7,9 @@ package lottogame;
 import java.util.Scanner;
 
 /**
- *
+ * adding new comment
  * @author ibikh
- */
+ */ 
 public class LottoGame {
 
     /**
