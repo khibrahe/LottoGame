@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 /**
  * adding new comment
+ * practice complete
  * @author ibikh
  */ 
 public class LottoGame {
